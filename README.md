@@ -22,12 +22,15 @@ If you get output = "true" then WAKE UP THE BOT i.e. do STEP 1 again
 
 OTHER
 1. To check last message
+   
 Inbox[#Inbox]
 
-2. Check GAME STATE
+3. Check GAME STATE
+   
 LatestGameState
 
-3. To check game's token balance
+5. To check game's token balance
+   
 Send({ Target = Game, Action = "Balance" })
 
 credit: MOTS Crypto
