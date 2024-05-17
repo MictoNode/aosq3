@@ -1,5 +1,5 @@
 1) Game = "0rVZYFxvfJpO__EfOz0_PUQ3GFE9kEaES0GkUDNXjvE"
-2) .load bot.lua
+2) .load mictobot.lua
 3) Send({ Target = Game, Action = "Register" })
 4) Send({ Target = Game, Action = "RequestTokens" })
 5) Send({ Target = Game, Action = "Transfer", Recipient = Game, Quantity = "1000" })
